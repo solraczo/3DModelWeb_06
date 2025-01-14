@@ -179,3 +179,4 @@ chatInput.addEventListener('keypress', (e) => {
         chatInput.value = ''; // Limpiar el chatbox
     }
 });
+//prueba
